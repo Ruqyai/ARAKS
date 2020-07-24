@@ -15,3 +15,4 @@ Managing water consumption in the home
 ### For more information about our solution please click [here](https://devpost.com/software/arks).
 
 ![Screenshot](ARKs-Website/home.jpg)
+![Screenshot](ARKs-Website/photo.jpg)
